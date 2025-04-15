@@ -10,8 +10,6 @@ package-lock.json
 build
 *.tsbuildinfo
 
-/packages/*/dist
-
 /tmp
 
 *.lerna_backup
